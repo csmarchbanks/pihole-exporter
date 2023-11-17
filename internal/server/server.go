@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eko/pihole-exporter/internal/pihole"
+	"github.com/csmarchbanks/pihole-exporter/internal/pihole"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	log "github.com/sirupsen/logrus"
 	"golang.org/x/net/context"
